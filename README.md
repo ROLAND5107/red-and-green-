@@ -1,1 +1,1 @@
-# red-and-green-
+# C10-project-template
